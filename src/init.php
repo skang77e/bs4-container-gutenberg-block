@@ -50,7 +50,7 @@ function bs4_container_gutenberg_block_cgb_block_category( $categories, $post ) 
 		array(
 			array(
 				'slug' => 'bs4-container-gutenberg-block',
-				'title' => __( 'Container Block', 'bs4-container-gutenberg-block' ),
+				'title' => __( 'Bootstrap 4 Container Block', 'bs4-container-gutenberg-block' ),
 			),
 		)
 	);
