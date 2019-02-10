@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create Guten Block](https://github.com/ahmadawais/create-guten-block).
 
-This project provides gutenberg block components for GUOA websites.
+This project provides Bootstrap 4 gutenberg block component.
 
 ## `npm install`
 - Install development package.
