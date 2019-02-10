@@ -2,12 +2,6 @@ This project was bootstrapped with [Create Guten Block](https://github.com/ahmad
 
 This project provides Bootstrap 4 gutenberg block component.
 
-## Version
-Version: 1.0.0
-
-## Author
-[Jon Kang](https://github.com/skang77e)
-
 ## `npm install`
 - Install development package.
 
@@ -31,3 +25,8 @@ Version: 1.0.0
 3. Activate the plugin through the `Plugins` menu.
 4. Go to edit page, you will see `GUOA Blocks` category is added.
 
+## Version
+Version: 1.0.0
+
+## Author
+[Jon Kang](https://github.com/skang77e)
