@@ -20,10 +20,10 @@ This project provides Bootstrap 4 gutenberg block component.
 - You don't normally have to `eject` a project because by ejecting you lose the connection with `create-guten-block` and from there onwards you have to update and maintain all the dependencies on your own.
 
 ## `Add as wordpress Plugin`
-1. Compress guoa-gutenberg folder except node_module folder.
+1. Compress bs4-container-gutenberg-block folder except node_module folder.
 2. From Your Wordpress Dashboard, upload a zipped file to `Plugins / Add New`.
 3. Activate the plugin through the `Plugins` menu.
-4. Go to edit page, you will see `GUOA Blocks` category is added.
+4. Go to edit page, you will see `Bootstrap 4 Container Block` category is added.
 
 ## Version
 Version: 1.0.0
